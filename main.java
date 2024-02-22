@@ -1,6 +1,12 @@
 import java.util.Scanner;
 class main
 {
+    public static int division(int add)
+    {
+        int x=add/2;
+        return x;
+    }
+
     
    public static int addition(int a,int b)
     {

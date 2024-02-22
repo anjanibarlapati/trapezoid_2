@@ -14,6 +14,11 @@ class main
         return x;
     }
  
+    public static int multiplication(int div,int h)
+    {
+        int x=div*h;
+        return x;
+    }
 
     public static void  main(String[] args)
     {

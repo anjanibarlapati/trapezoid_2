@@ -6,7 +6,6 @@ class main
         int x=add/2;
         return x;
     }
-
     
    public static int addition(int a,int b)
     {
